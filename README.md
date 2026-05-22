@@ -20,3 +20,12 @@ Analyzed OSMI Mental Health in Tech Survey data (1,243 respondents) to uncover w
 - Source: OSMI Mental Health in Tech Survey
 - Records: 1,243 respondents
 - Link: [Kaggle Dataset](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
+
+## 📖 Data Story
+👉 [View Full Story on Tableau Public](https://public.tableau.com/app/profile/subhadeep.koner/viz/MentalHealthCheckProject/Story1)
+### Story Structure
+- Slide 1: The Problem — Mental Health Crisis in Tech
+- Slide 2: Who is Affected? — Gender Analysis
+- Slide 3: How Much Impact? — Work Interference Analysis
+- Slide 4: Company Support Gap — Size vs Benefits
+- Slide 5: Key Recommendations
